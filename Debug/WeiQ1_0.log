@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(381,5): warning MSB8028: The intermediate directory (.\Debug\) contains files shared from another project (Weiqi.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+MainFrm.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+  WeiQ1_0.vcxproj -> E:\WeiQ1_0\.\Debug\WeiQ1_0.exe
